@@ -1,0 +1,16 @@
+PODS:
+  - CPFramework (0.1.0)
+
+DEPENDENCIES:
+  - CPFramework (from `../`)
+
+EXTERNAL SOURCES:
+  CPFramework:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CPFramework: 03ec37c2860bb513d8c824c5b6dd3e3c8a2bee62
+
+PODFILE CHECKSUM: 083da9293cb576eba5db8daf4652885c41276421
+
+COCOAPODS: 1.6.0.beta.2

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>08937EFE-FEB1-48C7-8A72-9289A6190990</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>08937EFE-FEB1-48C7-8A72-9289A6190990.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CPFramework project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CPFramework-Example</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Testing workspace CPFramework with scheme CPFramework-Example</string>
+			<key>timeStartedRecording</key>
+			<real>568523937.20220196</real>
+			<key>timeStoppedRecording</key>
+			<real>568523937.48379004</real>
+			<key>title</key>
+			<string>Testing workspace CPFramework with scheme CPFramework-Example</string>
+			<key>uniqueIdentifier</key>
+			<string>08937EFE-FEB1-48C7-8A72-9289A6190990</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

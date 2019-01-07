@@ -1,0 +1,22 @@
+{
+  "name": "CPFramework",
+  "version": "0.1.0",
+  "summary": "A short description of CPFramework.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/manuyavuz-pointr/CPFramework",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "manuyavuz-pointr": "manuyavuz@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/manuyavuz-pointr/CPFramework.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CPFramework/Classes/**/*"
+}

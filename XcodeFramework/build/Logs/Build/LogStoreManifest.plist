@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>1DD654D9-8F1A-4BB2-B749-D2AD98471D0E</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1DD654D9-8F1A-4BB2-B749-D2AD98471D0E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>XcodeFramework project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>XcodeFramework</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Testing project XcodeFramework with scheme XcodeFramework</string>
+			<key>timeStartedRecording</key>
+			<real>568524139.68627799</real>
+			<key>timeStoppedRecording</key>
+			<real>568524140.21314502</real>
+			<key>title</key>
+			<string>Testing project XcodeFramework with scheme XcodeFramework</string>
+			<key>uniqueIdentifier</key>
+			<string>1DD654D9-8F1A-4BB2-B749-D2AD98471D0E</string>
+		</dict>
+		<key>2328F7D4-5B85-4E5B-B043-C42A5CFFF612</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2328F7D4-5B85-4E5B-B043-C42A5CFFF612.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>XcodeFramework project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>XcodeFramework</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Testing project XcodeFramework with scheme XcodeFramework</string>
+			<key>timeStartedRecording</key>
+			<real>568524134.87753606</real>
+			<key>timeStoppedRecording</key>
+			<real>568524135.40569198</real>
+			<key>title</key>
+			<string>Testing project XcodeFramework with scheme XcodeFramework</string>
+			<key>uniqueIdentifier</key>
+			<string>2328F7D4-5B85-4E5B-B043-C42A5CFFF612</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

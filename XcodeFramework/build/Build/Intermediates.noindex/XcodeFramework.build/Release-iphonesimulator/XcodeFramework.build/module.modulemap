@@ -1,0 +1,6 @@
+framework module XcodeFramework {
+  umbrella header "XcodeFramework.h"
+
+  export *
+  module * { export * }
+}

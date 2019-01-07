@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/manuyavuz/Desktop/CPDerivedDataProductsDeletionRecompilation/XcodeFramework/build/Build/Products/Release-iphonesimulator/XcodeFramework.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "XcodeFramework-Swift.h",
+          'external-contents': "/Users/manuyavuz/Desktop/CPDerivedDataProductsDeletionRecompilation/XcodeFramework/build/Build/Products/Release-iphonesimulator/XcodeFramework.framework/Headers/XcodeFramework-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "XcodeFramework.h",
+          'external-contents': "/Users/manuyavuz/Desktop/CPDerivedDataProductsDeletionRecompilation/XcodeFramework/XcodeFramework/XcodeFramework.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/manuyavuz/Desktop/CPDerivedDataProductsDeletionRecompilation/XcodeFramework/build/Build/Products/Release-iphonesimulator/XcodeFramework.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/manuyavuz/Desktop/CPDerivedDataProductsDeletionRecompilation/XcodeFramework/build/Build/Intermediates.noindex/XcodeFramework.build/Release-iphonesimulator/XcodeFramework.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

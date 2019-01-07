@@ -1,0 +1,6 @@
+framework module CPFramework {
+  umbrella header "CPFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}
